@@ -22,11 +22,7 @@
     <list default="true" id="bcc0ee17-849e-4585-801f-bc57829e3cb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/etc.html" beforeDir="false" afterPath="$PROJECT_DIR$/etc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/monitor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/monitor.jpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/monitor1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/사무용키보드3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/사무용키보드4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/keyboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/monitor.html" beforeDir="false" afterPath="$PROJECT_DIR$/monitor.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/mouse.html" afterDir="false" />
@@ -47,6 +43,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1eMyhHpslzKGRbczFM5gw1uJr2o" />
   <component name="ProjectViewState">
@@ -55,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -99,6 +97,9 @@
       <workItem from="1598308748669" duration="1206000" />
       <workItem from="1613406534212" duration="7982000" />
       <workItem from="1613414590528" duration="5006000" />
+      <workItem from="1615173046003" duration="910000" />
+      <workItem from="1617099922297" duration="807000" />
+      <workItem from="1617100734376" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="a class color change">
       <created>1613415334282</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613420094433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3/30 commit">
+      <created>1617100909358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617100909358</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,25 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a class color change" />
     <MESSAGE value="a class color change2" />
-    <option name="LAST_COMMIT_MESSAGE" value="a class color change2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="729" y="300" width="524" height="514" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613446713446">
-      <screen x="72" y="27" width="3768" height="1053" />
-    </state>
-    <state x="729" y="300" width="524" height="514" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.3768.1053@72.27.3768.1053" timestamp="1613446713445" />
-    <state x="327" y="271" width="568" height="571" key="Vcs.Push.Dialog.v2" timestamp="1613420096241">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="327" y="271" width="568" height="571" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1613420096241" />
-    <state x="591" y="271" width="800" height="571" key="Vcs.Push.Dialog.v2/72.27.3768.1053@72.27.3768.1053" timestamp="1613415403514" />
-    <state x="2183" y="23" width="1517" height="1001" key="dock-window-1" timestamp="1613414211441">
-      <screen x="72" y="27" width="3768" height="1053" />
-    </state>
-    <state x="2183" y="23" width="1517" height="1001" key="dock-window-1/72.27.3768.1053@72.27.3768.1053" timestamp="1613414211441" />
-    <state x="660" y="251" key="run.anything.popup" timestamp="1613446376982">
-      <screen x="72" y="27" width="3768" height="1053" />
-    </state>
-    <state x="660" y="251" key="run.anything.popup/72.27.3768.1053@72.27.3768.1053" timestamp="1613446376982" />
+    <MESSAGE value="3/30 commit" />
+    <MESSAGE value="3/30 commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/30 commit2" />
   </component>
 </project>
